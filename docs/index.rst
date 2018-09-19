@@ -13,7 +13,7 @@ Introducing Enlight as an Internal X-ref Target
 *****************************************************
 Here comes some information about Enligth...
 
-Here is a X-ref example. Click to check
+Here is a X-ref example. Click to check `Definition List`_ and understand basic concepts involved.
 
 
 Definition List
