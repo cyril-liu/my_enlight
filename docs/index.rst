@@ -12,3 +12,13 @@ Enlight KPI User Manual
 Introducing Enlight as an Internal X-ref Target
 *****************************************************
 Here comes some information about Enligth...
+
+Here is a X-ref example. Click to check
+
+
+Definition List
+####################
+* Enlight KPI: a Web-based application designed to view, diagnose, and improve wind farm performance.
+* Enlight Monitor: a Web-based application designed to help you get most of your WTG alarms.
+
+
