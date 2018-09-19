@@ -2,11 +2,11 @@
 Enlight KPI User Manual
 =======================
 
-`Chapter 1 <introducing_enlight.rst>`_
+`Chapter 1 <my_enlight/docs/introducing_enlight.rst>`_
 
-`Chapter 2 <basic_facts.rst>`_
+`Chapter 2 <my_enlight/docs/basic_facts.rst>`_
 
-`Chapter 3 <one_task_example.rst>`_
+`Chapter 3 <my_enlight/docs/one_task_example.rst>`_
 
 
 Introducing Enlight as an Internal X-ref Target
