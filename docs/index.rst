@@ -13,7 +13,7 @@ Introducing Enlight as an Internal X-ref Target
 *****************************************************
 Here comes some information about Enligth...
 
-Here is a X-ref example. Click to check :ref:`reference-target-name` and understand basic concepts involved.
+Here is a X-ref example. Click to check `reference-target-name`_ and understand basic concepts involved.
 
 Sign Up
 ###########
@@ -47,7 +47,7 @@ To connect your account, go to your Settings dashboard and select Connected Serv
 If you are going to import a repository from GitHub, Bitbucket or GitLab, you should connect your account to your provider first. Connecting your account allows for easier importing and enables Read the Docs to configure your repository webhooks automatically.
 To connect your account, go to your Settings dashboard and select Connected Services. From here, you'll be able to connect to your GitHub, Bitbucket or GitLab account. This process will ask you to authorize a connection to Read the Docs, that allows us to read information about and clone your repositories.
 
-.. _reference-target-name::
+.. _reference-target-name:
 
 Definition List
 ####################
