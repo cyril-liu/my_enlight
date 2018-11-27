@@ -11,7 +11,7 @@ Enlight KPI User Manual
 
 Introducing Enlight as an Internal X-ref Target
 *****************************************************
-Here comes some information about Enligth...
+Here comes some information about Enlight...
 
 Here is a X-ref example. Click to check `reference-target-name`_ and understand basic concepts involved.
 
